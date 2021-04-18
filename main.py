@@ -1,6 +1,5 @@
 import discord, os, math
-TOKEN = 'ODMzNDEyODQ2NTYxNjU2ODMy.YHx-Mg.w7k7Thamt4CYdi2FvIvvHXXhi8A'
-#PUT YOUR TOKEN HERE
+TOKEN = SUPER_SECRET: ${{ secrets.palindrome }}
 
 
 
